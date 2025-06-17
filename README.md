@@ -4,7 +4,7 @@ A simple, accessible calculator built using **React** and **Tailwind CSS**. It s
 
 ## Demo
 
-Live Preview: https://react-calculator.onrender.com
+Live Preview: [https://react-calculator.onrender.com](https://react-calculator-i6kv.onrender.com)
 
 ## Features
 

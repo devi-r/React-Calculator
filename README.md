@@ -33,7 +33,7 @@ Live Preview: [https://react-calculator.onrender.com](https://react-calculator-i
 2. Navigate to the project directory:
 
    ```bash
-   cd react-calculator
+   cd React-Calculator
    ```
 
 3. Install the dependencies:

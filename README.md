@@ -27,7 +27,7 @@ Live Preview: [https://react-calculator.onrender.com](https://react-calculator-i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-calculator.git
+   git clone https://github.com/devi-r/React-Calculator.git
    ```
 
 2. Navigate to the project directory:
